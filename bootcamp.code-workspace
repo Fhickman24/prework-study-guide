@@ -1,8 +1,8 @@
 {
-	"folders": [
-		{
-			"path": ".."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "name": "prework-study-guide",
+            "path": "../../New folder/prework-study-guide"
+        }
+    ]
 }
