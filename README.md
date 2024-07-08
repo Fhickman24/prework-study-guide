@@ -1,6 +1,8 @@
 # Prework Study Guide Webpage
 
-## A first attempt at building a webpage.  I outline notes and reminders about the four different programing languages to which I was introduced. It is a practice page for my skill development, a sandbox to make mistakes and forage for the corrections. I've learned that there are lots of obstacles that get in the way of success.  As there are obstacles, there are multiple ways around or through the problems.  I may have created more bugs and issues for later sludge, but I'm really proud of my progress through the multiple issues and have made it this far.
+## Description
+
+A first attempt at building a webpage.  I outline notes and reminders about the four different programing languages to which I was introduced. It is a practice page for my skill development, a sandbox to make mistakes and forage for the corrections. I've learned that there are lots of obstacles that get in the way of success.  As there are obstacles, there are multiple ways around or through the problems.  I may have created more bugs and issues for later sludge, but I'm really proud of my progress through the multiple issues and have made it this far.
 
 ## Installation
 
